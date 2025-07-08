@@ -57,7 +57,7 @@ This project analyzes academic and behavioral metrics to identify at-risk studen
 
 ## 📊 Final Dashboard Output
 
-![Dashboard](outputs/student_performance_dashboard.png)
+![Dashboard](https://github.com/LAXMAN7795/Student-Performance-Analytics-Dashboard/blob/8700fcf6ca750c0a55901e57bd67e6284c21c2a2/output/student_performance_dashboard.png)
 
 ---
 
@@ -68,10 +68,6 @@ This project analyzes academic and behavioral metrics to identify at-risk studen
 ├── outputs/
 │ └── student_performance_dashboard.png
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
